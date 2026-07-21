@@ -1,6 +1,6 @@
 # Mobile App Marketing Attribution & LTV Prediction
 
-This repository contains a comprehensive data science project completed as part of a take-home assignment for a **mobile investment app** company. The goal was to evaluate marketing channel performance under last‑click attribution, uncover hidden patterns (attribution gaps, halo effects), and build a predictive model for customer lifetime value (LTV) to guide budget allocation.
+This repository contains a comprehensive data science project completed as part of a project for a **mobile investment app** company. The goal was to evaluate marketing channel performance under last‑click attribution, uncover hidden patterns (attribution gaps, halo effects), and build a predictive model for customer lifetime value (LTV) to guide budget allocation.
 
 ## Project Overview
 
