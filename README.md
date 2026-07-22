@@ -60,7 +60,7 @@ The analysis uses five simulated CSV files (not included in this repo for confid
 
 1. Clone the repository.
 2. Place the five CSV files in a `data/` folder (structure as described in the notebook).
-3. Run the Jupyter notebook `notebooks/main_analysis.ipynb` to reproduce all analyses and plots.
+3. Run the Jupyter notebook `main.py` to reproduce all analyses and plots.
 4. The notebook requires Python 3.8+ with libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels.
 
 ## License
